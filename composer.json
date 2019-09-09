@@ -27,5 +27,6 @@
         "name": "Stephen Holdaway",
         "email": "stephen.holdaway@heyday.co.nz",
         "homepage": "https://github.com/stecman/"
-    }]
+    }],
+    "minimum-stability": "dev"
 }
